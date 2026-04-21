@@ -14,7 +14,7 @@ const AVATARS = {
   fox:      { name:'Fox Spirit',      title:'Enchantress of Illusions',   emoji:'🦊', img:'assets/images/fox.jpg',     color:'#6a4a6a' },
   blackbear:{ name:'Black Bear',      title:'Bear King of Black Wind',    emoji:'🐻', img:'assets/images/bear.jpg',    color:'#5a5a8a' },
   tiger:    { name:'Tiger Vanguard',  title:'Guardian of the West',       emoji:'🐯', img:'assets/images/tiger.jpg',   color:'#8a5a5a' },
-  bajie:    { name:'Zhu Bajie',       title:'Marshal of the Canopy',      emoji:'🌸', img:'black_myth_wukong/bajie.jpg',   color:'#8b3a3a' },
+  bajie:    { name:'Zhu Bajie',       title:'Marshal of the Canopy',      emoji:'🌸', img:'black_myth_wukong/bjie.jpg',   color:'#8b3a3a' },
   redboy:   { name:'Red Boy',         title:'Holy Infant King',           emoji:'🔥', img:'assets/images/red.webp',    color:'#8b2a00' },
   macaque:  { name:'Macaque',         title:'Ruler of the Mountain',      emoji:'🦍', img:'assets/images/macaque.jpg', color:'#4a4a6a'},
   yaoguai:  { name:'Yaoguai King',    title:'Lord of the Demons',         emoji:'👹', img:'assets/images/king.jpg',    color:'#6a4a4a' },
